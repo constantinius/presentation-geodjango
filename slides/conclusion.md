@@ -1,4 +1,4 @@
-##  Summary
+##  Conclusion
 
 Great tool to interact with spatial data
 
